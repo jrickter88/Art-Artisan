@@ -9,10 +9,12 @@ using System.Resources;
 
 namespace Art_Artisan
 {
+  
 
-   
     public class SettingGenerator
     {
+        ResourceManager rm = Properties.Resources.ResourceManager;
+        string[] stringSeparators = new string[] { "\r\n" };
 
 
         public SettingGenerator()
@@ -30,10 +32,13 @@ namespace Art_Artisan
         public void createrandomSetting()
         {
 
+            var settings = Properties.Resources.setting;
 
+          
+            string[] output = settings.Split(stringSeparators, StringSplitOptions.None);
             StringCollection sSetting = new StringCollection();
-            File_Reader fileSetting = new File_Reader("setting.txt");
-            string[] output = fileSetting.text;
+
+        
 
 
             sSetting.AddRange(output);
@@ -63,7 +68,7 @@ namespace Art_Artisan
         public Image getStyleImage()
         {
 
-            ResourceManager rm = Properties.Resources.ResourceManager;
+
             Bitmap myImage = (Bitmap)rm.GetObject(setting);
 
 
@@ -74,7 +79,7 @@ namespace Art_Artisan
         public Image getStyleImage(string name)
         {
 
-            ResourceManager rm = Properties.Resources.ResourceManager;
+ 
             Bitmap myImage = (Bitmap)rm.GetObject(setting);
 
 

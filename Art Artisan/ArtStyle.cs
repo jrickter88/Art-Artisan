@@ -13,7 +13,7 @@ namespace Art_Artisan
     {
 
 
-
+        string[] stringSeparators = new string[] { "\r\n" };
 
 
         public string style
@@ -33,9 +33,11 @@ namespace Art_Artisan
 
 
             StringCollection sStyle = new StringCollection();
-            File_Reader fileStyle = new File_Reader("style.txt");
-            string[] output = fileStyle.text;
 
+            var inputStyle = Properties.Resources.style;
+
+
+            string[] output = inputStyle.Split(stringSeparators, StringSplitOptions.None);
 
             sStyle.AddRange(output);
 

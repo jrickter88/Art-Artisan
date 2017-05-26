@@ -61,6 +61,16 @@ namespace Art_Artisan.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon _1491269281600 {
+            get {
+                object obj = ResourceManager.GetObject("_1491269281600", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap Barn {
@@ -107,6 +117,17 @@ namespace Art_Artisan.Properties {
             get {
                 object obj = ResourceManager.GetObject("Beneath_the_sea", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 8.5 x 10
+        ///12 x 12
+        ///16 x 20.
+        /// </summary>
+        internal static string canvas {
+            get {
+                return ResourceManager.GetString("canvas", resourceCulture);
             }
         }
         
@@ -221,6 +242,39 @@ namespace Art_Artisan.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Ink
+        ///Pencil
+        ///Water Color
+        ///Acryllic Paint
+        ///Crayon
+        ///Color Pencil.
+        /// </summary>
+        internal static string mediums {
+            get {
+                return ResourceManager.GetString("mediums", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Melencholy
+        ///Fearful
+        ///Happy
+        ///Mischevious
+        ///Playful
+        ///Devious
+        ///Angry
+        ///Sarcastic
+        ///Restless
+        ///Worrisome
+        ///Helpless.
+        /// </summary>
+        internal static string moods {
+            get {
+                return ResourceManager.GetString("moods", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap Morgue {
@@ -261,12 +315,60 @@ namespace Art_Artisan.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Woodlands
+        ///Desert
+        ///Snowy_artic
+        ///Mountains
+        ///Garden
+        ///Ocean_road
+        ///Jungle
+        ///Lair
+        ///Car
+        ///Barn
+        ///Bayou
+        ///Tomb
+        ///Train
+        ///Farmhouse
+        ///Castle
+        ///Church
+        ///Prarie
+        ///Highlands
+        ///Morgue
+        ///Beneath_the_sea
+        ///Beach
+        ///Volcano
+        ///Kitchen
+        ///The Sea
+        ///Cemetary
+        ///Bedroom.
+        /// </summary>
+        internal static string setting {
+            get {
+                return ResourceManager.GetString("setting", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap Snowy_artic {
             get {
                 object obj = ResourceManager.GetObject("Snowy_artic", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical
+        ///Retro
+        ///Noir
+        ///Renaissance
+        ///Impressionism
+        ///Charicature.
+        /// </summary>
+        internal static string style {
+            get {
+                return ResourceManager.GetString("style", resourceCulture);
             }
         }
         

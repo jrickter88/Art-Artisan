@@ -9,6 +9,7 @@ namespace Art_Artisan
 {
     public class CanvasSize
     {
+        string[] stringSeparators = new string[] { "\r\n" };
 
         public string size
         {
@@ -25,12 +26,12 @@ namespace Art_Artisan
 
         public void createrandomCanvas()
         {
-
-
             StringCollection scanvas = new StringCollection();
-            File_Reader filecanvas = new File_Reader("canvas.txt");
-            string[] output = filecanvas.text;
 
+            var inputCanvas = Properties.Resources.canvas;
+
+
+            string[] output = inputCanvas.Split(stringSeparators, StringSplitOptions.None);
 
             scanvas.AddRange(output);
 

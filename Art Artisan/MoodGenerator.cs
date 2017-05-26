@@ -11,6 +11,7 @@ namespace Art_Artisan
     {
 
         private string mood = null;
+        string[] stringSeparators = new string[] { "\r\n" };
 
 
 
@@ -45,10 +46,12 @@ namespace Art_Artisan
 
             StringCollection moods = new StringCollection();
 
-            File_Reader fileMoods = new File_Reader("moods.txt");
-            string[] output = fileMoods.text;
+            var inputMood = Properties.Resources.moods;
 
-            
+
+            string[] output = inputMood.Split(stringSeparators, StringSplitOptions.None);
+      
+
             moods.AddRange(output);
 
             Random intrand = new Random(Guid.NewGuid().GetHashCode());

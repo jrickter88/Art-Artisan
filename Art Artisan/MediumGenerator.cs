@@ -11,6 +11,7 @@ namespace Art_Artisan
     {
 
         private string medium = "Ink";
+        string[] stringSeparators = new string[] { "\r\n" };
 
 
 
@@ -39,11 +40,13 @@ namespace Art_Artisan
 
         public void createrandomMedium()
         {
-            
+
             StringCollection sMediums = new StringCollection();
-            File_Reader fileMedium = new File_Reader("mediums.txt");
-            string[] output = fileMedium.text;
-                        
+
+            var inputMedium = Properties.Resources.mediums;
+
+
+            string[] output = inputMedium.Split(stringSeparators, StringSplitOptions.None);
             sMediums.AddRange(output);
 
             Random intrand = new Random(Guid.NewGuid().GetHashCode());

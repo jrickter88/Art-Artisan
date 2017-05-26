@@ -133,6 +133,9 @@
   <data name="Beneath_the_sea" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\beneath the sea.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="canvas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\canvas.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
   <data name="Car" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\car.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -166,6 +169,12 @@
   <data name="Lair" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Lair.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="mediums" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mediums.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="moods" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\moods.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
   <data name="Morgue" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\morgue.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -178,8 +187,14 @@
   <data name="Prarie" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\prarie.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="setting" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\setting.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
   <data name="Snowy_artic" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\snowy artic.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="style" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\style.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="The_sea" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\the sea.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -195,5 +210,8 @@
   </data>
   <data name="Woodlands" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\woodlands.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_1491269281600" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1491269281600.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

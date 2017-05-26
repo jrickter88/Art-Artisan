@@ -31,6 +31,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1491269281600.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,7 +49,6 @@
   <ItemGroup>
     <Compile Include="ArtStyle.cs" />
     <Compile Include="CanvasSize.cs" />
-    <Compile Include="File Reader.cs" />
     <Compile Include="Art Artisan.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -163,6 +165,30 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Bedroom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moods.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mediums.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\canvas.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\style.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1491269281600.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1491269281600.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
