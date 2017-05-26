@@ -1,9 +1,9 @@
 Woodlands
 Desert
-Snowy Artic
+Snowy_artic
 Mountains
 Garden
-Ocean Road
+Ocean_road
 Jungle
 Lair
 Car
@@ -17,7 +17,7 @@ Church
 Prarie
 Highlands
 Morgue
-Beneath The Sea
+Beneath_the_sea
 Beach
 Volcano
 Kitchen

@@ -63,9 +63,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap barn {
+        internal static System.Drawing.Bitmap Barn {
             get {
-                object obj = ResourceManager.GetObject("barn", resourceCulture);
+                object obj = ResourceManager.GetObject("Barn", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bayou {
+        internal static System.Drawing.Bitmap Bayou {
             get {
-                object obj = ResourceManager.GetObject("bayou", resourceCulture);
+                object obj = ResourceManager.GetObject("Bayou", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap beach {
+        internal static System.Drawing.Bitmap Beach {
             get {
-                object obj = ResourceManager.GetObject("beach", resourceCulture);
+                object obj = ResourceManager.GetObject("Beach", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bedroom {
+        internal static System.Drawing.Bitmap Bedroom {
             get {
-                object obj = ResourceManager.GetObject("bedroom", resourceCulture);
+                object obj = ResourceManager.GetObject("Bedroom", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap beneath_the_sea {
+        internal static System.Drawing.Bitmap Beneath_the_sea {
             get {
-                object obj = ResourceManager.GetObject("beneath_the_sea", resourceCulture);
+                object obj = ResourceManager.GetObject("Beneath_the_sea", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap car {
+        internal static System.Drawing.Bitmap Car {
             get {
-                object obj = ResourceManager.GetObject("car", resourceCulture);
+                object obj = ResourceManager.GetObject("Car", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -123,9 +123,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap castle {
+        internal static System.Drawing.Bitmap Castle {
             get {
-                object obj = ResourceManager.GetObject("castle", resourceCulture);
+                object obj = ResourceManager.GetObject("Castle", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -133,9 +133,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cemetary {
+        internal static System.Drawing.Bitmap Cemetary {
             get {
-                object obj = ResourceManager.GetObject("cemetary", resourceCulture);
+                object obj = ResourceManager.GetObject("Cemetary", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -143,9 +143,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap church {
+        internal static System.Drawing.Bitmap Church {
             get {
-                object obj = ResourceManager.GetObject("church", resourceCulture);
+                object obj = ResourceManager.GetObject("Church", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,9 +153,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap desert {
+        internal static System.Drawing.Bitmap Desert {
             get {
-                object obj = ResourceManager.GetObject("desert", resourceCulture);
+                object obj = ResourceManager.GetObject("Desert", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -163,9 +163,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap farmhouse {
+        internal static System.Drawing.Bitmap Farmhouse {
             get {
-                object obj = ResourceManager.GetObject("farmhouse", resourceCulture);
+                object obj = ResourceManager.GetObject("Farmhouse", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -173,9 +173,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap garden {
+        internal static System.Drawing.Bitmap Garden {
             get {
-                object obj = ResourceManager.GetObject("garden", resourceCulture);
+                object obj = ResourceManager.GetObject("Garden", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -183,9 +183,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap highlands {
+        internal static System.Drawing.Bitmap Highlands {
             get {
-                object obj = ResourceManager.GetObject("highlands", resourceCulture);
+                object obj = ResourceManager.GetObject("Highlands", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -203,9 +203,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kitchen {
+        internal static System.Drawing.Bitmap Kitchen {
             get {
-                object obj = ResourceManager.GetObject("kitchen", resourceCulture);
+                object obj = ResourceManager.GetObject("Kitchen", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -223,9 +223,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap morgue {
+        internal static System.Drawing.Bitmap Morgue {
             get {
-                object obj = ResourceManager.GetObject("morgue", resourceCulture);
+                object obj = ResourceManager.GetObject("Morgue", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -233,9 +233,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mountains {
+        internal static System.Drawing.Bitmap Mountains {
             get {
-                object obj = ResourceManager.GetObject("mountains", resourceCulture);
+                object obj = ResourceManager.GetObject("Mountains", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -243,9 +243,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ocean_road {
+        internal static System.Drawing.Bitmap Ocean_road {
             get {
-                object obj = ResourceManager.GetObject("ocean_road", resourceCulture);
+                object obj = ResourceManager.GetObject("Ocean_road", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -253,9 +253,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap prarie {
+        internal static System.Drawing.Bitmap Prarie {
             get {
-                object obj = ResourceManager.GetObject("prarie", resourceCulture);
+                object obj = ResourceManager.GetObject("Prarie", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -263,9 +263,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap snowy_artic {
+        internal static System.Drawing.Bitmap Snowy_artic {
             get {
-                object obj = ResourceManager.GetObject("snowy_artic", resourceCulture);
+                object obj = ResourceManager.GetObject("Snowy_artic", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -273,9 +273,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap the_sea {
+        internal static System.Drawing.Bitmap The_sea {
             get {
-                object obj = ResourceManager.GetObject("the_sea", resourceCulture);
+                object obj = ResourceManager.GetObject("The_sea", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -283,9 +283,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap tomb {
+        internal static System.Drawing.Bitmap Tomb {
             get {
-                object obj = ResourceManager.GetObject("tomb", resourceCulture);
+                object obj = ResourceManager.GetObject("Tomb", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -293,9 +293,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap train {
+        internal static System.Drawing.Bitmap Train {
             get {
-                object obj = ResourceManager.GetObject("train", resourceCulture);
+                object obj = ResourceManager.GetObject("Train", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -303,9 +303,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap volcano {
+        internal static System.Drawing.Bitmap Volcano {
             get {
-                object obj = ResourceManager.GetObject("volcano", resourceCulture);
+                object obj = ResourceManager.GetObject("Volcano", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -313,9 +313,9 @@ namespace Art_Artisan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap woodlands {
+        internal static System.Drawing.Bitmap Woodlands {
             get {
-                object obj = ResourceManager.GetObject("woodlands", resourceCulture);
+                object obj = ResourceManager.GetObject("Woodlands", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

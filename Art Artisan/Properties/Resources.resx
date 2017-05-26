@@ -118,82 +118,82 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="barn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Barn" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\barn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bayou" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Bayou" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bayou.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="beach" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Beach" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\beach.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bedroom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Bedroom" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bedroom.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="beneath_the_sea" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Beneath_the_sea" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\beneath the sea.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="car" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Car" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\car.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="castle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Castle" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\castle.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cemetary" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Cemetary" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cemetary.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="church" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Church" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\church.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="desert" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Desert" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\desert.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="farmhouse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Farmhouse" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\farmhouse.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="garden" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Garden" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\garden.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="highlands" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Highlands" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\highlands.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Jungle" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Jungle.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="kitchen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Kitchen" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kitchen.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Lair" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Lair.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="morgue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Morgue" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\morgue.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="mountains" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Mountains" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mountains.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ocean_road" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Ocean_road" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ocean road.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="prarie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Prarie" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\prarie.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="snowy_artic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Snowy_artic" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\snowy artic.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="the_sea" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="The_sea" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\the sea.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="tomb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Tomb" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tomb.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="train" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Train" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\train.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="volcano" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Volcano" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\volcano.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="woodlands" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Woodlands" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\woodlands.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

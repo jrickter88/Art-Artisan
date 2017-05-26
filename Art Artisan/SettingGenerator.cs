@@ -66,11 +66,6 @@ namespace Art_Artisan
             ResourceManager rm = Properties.Resources.ResourceManager;
             Bitmap myImage = (Bitmap)rm.GetObject(setting);
 
-            //string imagedirectory = @"./images\";
-
-            //  imagedirectory = imagedirectory + setting + ".jpg";
-
-            //    return Image.FromFile(imagedirectory);
 
             return myImage;
             
@@ -79,13 +74,11 @@ namespace Art_Artisan
         public Image getStyleImage(string name)
         {
 
-            string imagedirectory = @"C:\c#\Art Artisan\Setting Images\";
-            imagedirectory = imagedirectory + name + ".jpg";
+            ResourceManager rm = Properties.Resources.ResourceManager;
+            Bitmap myImage = (Bitmap)rm.GetObject(setting);
 
 
-            Image picture = Image.FromFile(imagedirectory);
-
-            return picture;
+            return myImage;
 
 
 
