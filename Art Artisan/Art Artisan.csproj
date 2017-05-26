@@ -182,9 +182,6 @@
     <None Include="Resources\style.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\error.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\1491269281600.ico" />
   </ItemGroup>
   <ItemGroup>
