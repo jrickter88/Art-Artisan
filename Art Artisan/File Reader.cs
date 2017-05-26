@@ -10,9 +10,7 @@ namespace Art_Artisan
 {
    public class File_Reader
     {
-
-
-
+        
 
         public File_Reader(string tempfile)
         {
@@ -29,9 +27,7 @@ namespace Art_Artisan
                 text = System.IO.File.ReadAllLines(combined);
             }
         
-              
-
-
+                        
         }
 
         public string[] text
@@ -40,16 +36,7 @@ namespace Art_Artisan
             set;
 
         }
-
-
-
-
-
-
-
-
-
-
+        
 
 
     }

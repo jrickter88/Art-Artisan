@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using System.Collections;
 using System.Collections.Specialized;
 using System.Drawing;
+using System.Resources;
 
 namespace Art_Artisan
 {
@@ -62,13 +63,16 @@ namespace Art_Artisan
         public Image getStyleImage()
         {
 
-            string imagedirectory = @"C:\c#\Art Artisan\Setting Images\";
+            ResourceManager rm = Properties.Resources.ResourceManager;
+            Bitmap myImage = (Bitmap)rm.GetObject(setting);
 
-            imagedirectory = imagedirectory + setting + ".jpg";
-            
-            return Image.FromFile(imagedirectory);
+            //string imagedirectory = @"./images\";
 
-            
+            //  imagedirectory = imagedirectory + setting + ".jpg";
+
+            //    return Image.FromFile(imagedirectory);
+
+            return myImage;
             
         }
         //used for the load function. 

@@ -71,6 +71,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -84,6 +85,84 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Beneath the sea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Car.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Castle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cemetary.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Church.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desert.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Farmhouse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Garden.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Highlands.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jungle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kitchen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lair.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Morgue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mountains.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ocean road.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Prarie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Snowy artic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\The sea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tomb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Train.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Volcano.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Woodlands.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Barn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bayou.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Beach.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bedroom.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

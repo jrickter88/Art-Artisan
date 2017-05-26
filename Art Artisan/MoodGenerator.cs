@@ -56,17 +56,8 @@ namespace Art_Artisan
             int index = intrand.Next(0, output.GetLength(0));
             mood = moods[index];
 
-
-
-
-
-
-
+            
         }
-
-
-
-
-
+        
     }
 }
